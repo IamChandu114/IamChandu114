@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-# Vemula Chandu
+# Chandu Vemula
 
 **Inference infrastructure · performance engineering · deterministic systems**
 
