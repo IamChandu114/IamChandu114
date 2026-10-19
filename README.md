@@ -63,6 +63,9 @@ A runtime intelligence platform with one loop: **predict → decide → optimize
 ### [WaveCore X](https://github.com/IamChandu114/WaveCore-X-5G-6G-Signal-Engineering-Platform) · TypeScript
 An interactive platform for PHY/DSP experimentation: modulation, OFDM, channel modeling, equalization, and BER/SER/EVM analysis. [Live](https://wavecore-x-website.vercel.app)
 
+**[QuantumRISC](https://github.com/IamChandu114/-QuantumRISC)** — A CPU engineering platform integrating RTL compilation, processor simulation, and waveform analysis.  
+Connects SystemVerilog execution with an interactive Studio for pipeline inspection, processor-state exploration, and debugging supported simulation flows.  
+**Recognition:** Selected by XERJ for inclusion in its public Corpus Hub as a reference implementation for AI coding agents.
 ---
 
 ## Engineering standards
@@ -87,5 +90,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:
+--> ...
